@@ -1,0 +1,5 @@
+img2table
+pandas
+google-cloud-aiplatform
+camelot-py
+openpyxl
