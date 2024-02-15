@@ -1,7 +1,7 @@
 # Project-8-PDF-2-Excel
 
 # Introduction - 
-This project is about generating insights from unstructured data such as PDFs. Here we utilize python library Camelot and Google Cloud's Vision API to extract tabular data from PDFs and export them in xlsx format for futher analysis. The whole process from uploading PDF files to getting xlsx files is automated thanks to triggers in Google Cloud. Feel free to use the code for your own purposes or build a better project over it.
+This project is about generating insights from unstructured data such as PDFs. Here we utilize python library Camelot and Google Cloud's Vision API to extract tabular data from PDFs and export them in xlsx format for further analysis. The whole process from uploading PDF files to getting xlsx files is automated thanks to triggers in Google Cloud. Feel free to use the code for your own purposes or build a better project over it.
 
 # Tech stack used -
 1. Python - Google-Cloud-Aiplatform, pandas, openpyxl, camelot and img2table libraries
