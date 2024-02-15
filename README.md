@@ -41,7 +41,7 @@ This project is about generating insights from unstructured data such as PDFs. H
 10. Click on the next button.
 11. Change the runtime to python 3.11 and change the entry point to 'final'.
 12. In main.py paste the code given in the file 'test2.py' after making changes to project name and bucket name accordingly in the code.
-13. In the requirements.txt file enter the libraires mentioned in the requirements.txt file in this repo.
+13. In the requirements.txt file enter the libraries mentioned in the requirements.txt file in this repo.
 
 ![](images/function-1.png)
 
