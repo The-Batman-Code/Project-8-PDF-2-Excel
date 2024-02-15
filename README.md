@@ -11,7 +11,7 @@ This project is about generating insights from unstructured data such as PDFs. H
 
 ![](images/architecture-1.png)
 
-![](images/architecture-1.png)
+![](images/architecture-2.png)
 
 # How to deploy it yourself? 👇
 1. Create a Cloud Storage Bucket using your desired name (Enforce public access prevention).
